@@ -1,0 +1,37 @@
+﻿生成启动时间为 火 2019 02 12 午前 2:53:18。
+     1>项目“C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\pck2ss\pck2ss.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\pck2ss.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(175): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(306) : 参见“wcsncpy”的声明
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(179): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(276) : 参见“wcscat”的声明
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(180): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(276) : 参见“wcscat”的声明
+     1>c:\users\windows 10\desktop\siglusengine_pck2script\siglusengine_pck2script\pck2ss\main.cpp(198): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(601) : 参见“_wfopen”的声明
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\pck2ss.exe.embed.manifest.res" Debug\pck2ss_manifest.rc 
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\Debug\pck2ss.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\pck2ss.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\Debug\pck2ss.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\Debug\pck2ss.lib" /MACHINE:X86 Debug\pck2ss.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\pck2ss.exe.embed.manifest" /manifest Debug\pck2ss.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         pck2ss.vcxproj -> C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\Debug\pck2ss.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\pck2ss.unsuccessfulbuild”。
+         正在对“Debug\pck2ss.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Windows 10\Desktop\SiglusEngine_pck2Script\SiglusEngine_pck2Script\pck2ss\pck2ss.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.18
